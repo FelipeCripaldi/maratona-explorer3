@@ -7,7 +7,7 @@
 
 
 body{
-    background-color: #FFEDD5;
+    background: no-repeat center/cover url("../Maratona/fundo-card.jpg");
     font-family: 'Roboto', sans-serif;
 }
 
@@ -20,7 +20,7 @@ ul{
 h1, h2, h3, .price{
     font-family: 'Roboto Serif', serif;
     text-transform: uppercase;
-    color: 2D2C2A;
+    color: #FFFFFF;
 }
 
 /*Header*/
@@ -42,7 +42,7 @@ header h1 {
 }
 
 header h1 span{
-    color: #995000;
+    color: #582f03;
 }
 
 header p {
@@ -58,7 +58,7 @@ section {
 }
 
 section h2 {
-    background-color: #FED7AA;
+    background-color: #2e1b05;
     padding: 8px 16px;
     text-align: center;
 
