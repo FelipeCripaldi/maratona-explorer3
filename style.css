@@ -7,7 +7,7 @@
 
 
 body{
-    background: no-repeat center/cover url("../Maratona/fundo-card.jpg");
+    background: no-repeat center/cover url("./fundo-card.jpg");
     font-family: 'Roboto', sans-serif;
 }
 
